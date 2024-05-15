@@ -13,6 +13,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * @author dancye May 7, 2018
  * @modified by Sehaj May 15 , 2024
+ making a change on github file
  */
 public class Student 
 {
